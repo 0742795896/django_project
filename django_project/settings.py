@@ -27,7 +27,7 @@ SECRET_KEY = '-721aas7-h&eqyrv8bw^(3^707cl0j=%6kfqz#(@k%b=#%=bkm'
 DEBUG = False
 ALLOWED_HOSTS = [".herokuapp.com"]
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["https//:dangerousteck.herokuapp.com"]
 
 
 # Application definition
